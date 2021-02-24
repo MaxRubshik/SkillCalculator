@@ -1,0 +1,2 @@
+# SkillCalculator
+App counting parameters
